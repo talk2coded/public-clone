@@ -1,0 +1,11 @@
+.button1{
+    background-color: blue;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.button1:hover{
+    color: #fff;
+}

@@ -1,0 +1,25 @@
+.input1{
+ height: 70px;
+ width: 50%;
+ border: 1px solid grey;
+ padding-left: 20px;
+}
+
+.inputBtn{
+    background-color: blue;
+    height: 70px;
+    border-radius: 0px;
+    color: white;
+    margin-top: -3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+
+}
+
+.link1{
+    text-decoration: none;
+    margin-top: 50px;
+    font-weight: bold;
+    color: blue;
+}
